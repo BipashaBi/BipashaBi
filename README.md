@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World, I'm Bipasha </h1>
+<h1 align="center"> Hello World! </h1>
 <h3 align="center"> KIIT DU | India</h3>
 
 <p align="center">
