@@ -1,5 +1,5 @@
 <h1 align="center"> Hello World, I'm Bipasha </h1>
-<h3 align="center"> Backend Developer | India</h3>
+<h3 align="center"> KIIT DU | India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bipashabi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
